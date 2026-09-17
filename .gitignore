@@ -1,0 +1,13 @@
+# Clés privées Google Wallet — ne jamais committer
+wallet/service-account.json
+wallet/*.json
+!wallet/package.json
+wallet/save-url.txt
+
+# Dépendances
+node_modules/
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
